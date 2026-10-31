@@ -1,0 +1,14 @@
+.DS_Store
+
+# Build
+.build/
+DerivedData/
+
+# Xcode (estado pessoal)
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# SwiftPM
+.swiftpm/
+Package.resolved
